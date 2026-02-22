@@ -51,5 +51,6 @@ chmod +x launch_maelstrom.sh
 ## 👤 Author
 
 **O'djuma Badolo**  
-Cybersecurity • Cloud • DevSecOps  
-*The eyeC Project: Closing the loop between Offense and Defense.*
+Web Developer | Cybersecurity graduate | DevSecOps Enthusiast  
+> *"Building secure systems by thinking like the storm."*
+
