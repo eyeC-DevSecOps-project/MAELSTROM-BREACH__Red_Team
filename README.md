@@ -2,6 +2,7 @@
 
 > ## Note
 > *Maelstrom-Breach is one of the eyeC Triplets*
+> 
 > *🔗 [Explore the project](https://github.com/eyeC-DevSecOps-project)*
 
 > *"To build a shield, you must first understand the storm."*
